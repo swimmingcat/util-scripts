@@ -93,7 +93,7 @@ def main():
     os.makedirs(PHOTOS_DIR, exist_ok=True)
     session = build_session()
 
-    page = 45
+    page = 0
     total_downloaded = 0
     photo_index = 0
 

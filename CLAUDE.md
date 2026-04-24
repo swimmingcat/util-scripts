@@ -1,5 +1,12 @@
 # util-scripts
 
+## Memory
+
+Project memory path: `/Users/luyuzhao/.claude/projects/-Users-luyuzhao-Project-python-util-scripts/memory/`
+Global memory path: `/Users/luyuzhao/.claude/memory/`
+
+Use the project path for util-scripts-specific context, and the global path for preferences that apply across all projects.
+
 A collection of Python utility scripts.
 
 ## Setup
