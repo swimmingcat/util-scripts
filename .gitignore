@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 photos/
 .DS_Store
+.idea/
+.python-version
+.claude/
